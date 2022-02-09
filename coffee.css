@@ -1,0 +1,274 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Bebas+Neue&family=Lobster&family=Pacifico&family=Pushster&family=Shizuru&family=Yuji+Hentaigana+Akebono&display=swap');/* div{
+    width: 100%;
+    height: 100px;
+    background-image: url(./image/coffee1.png);
+    background-size: cover;
+} */
+.row{
+    width: 100%;
+    height: 70px;
+    background-color:black;
+    color: rgb(243, 241, 237);
+    display: flex;
+    position: fixed;
+    top: 0px;
+
+
+}
+.pp{
+    height: 417px;
+    width:100% ;
+    /* margin-left: 100px; */
+
+}
+.cl{
+    height: 417px;
+    width:100% ;
+    background-image: url(./image/cofeebg.jpg);
+    background-size: cover;
+}
+
+
+.dl{
+    text-align: center;
+    height: 164px;
+    width: 194px;
+    background-color: rgb(7, 7, 7);
+    color: white;
+    padding-right: 200px;
+    padding-top: 100px;
+    margin-left: 285px;
+}
+#para{
+    color: white;
+    font-family: 'Archivo Black', sans-serif;
+    /* text-align: center; */
+    /* font-family: 'Archivo Black', sans-serif; */
+    font-family: 'Lobster', cursive;
+
+}
+#ll{
+    color:rgba(197, 186, 178, 0.61);
+    font-family: 'Pacifico', cursive;
+}
+h1{
+    color:rgba(197, 186, 178, 0.61);
+    
+    font-family: 'Lobster', cursive;
+}
+
+p{
+    /* font-family: 'Archivo Black', sans-serif; */
+    color:rgba(197, 186, 178, 0.61);
+}
+body{
+    background-color:rgb(14, 12, 12);
+}
+#im1{
+    height: 70px;
+    width: 90px;
+}
+.col1{
+    display: flex;
+}
+.col1{
+    height: 100px;
+    width: 100%;
+    /* border: white 2px solid; */
+}
+.col2{
+    height: 100px;
+    width: 100%;
+    /* border: white 2px solid; */
+}
+.row1{
+    width: 100%;
+    height: 400px;
+    /* border: white 2px solid;  */
+}
+#im2{
+    width: 100%;
+    height: 400px;
+}
+.row2{
+    width: 100%;
+    height: 400px;
+    /* border: white 2px solid; */
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.rc{
+    width: 100%;
+    height: 365px;
+}
+.rc1{
+    /* width: 100%;
+    height: 250px; */
+    background-color: rgb(61, 59, 59);
+    padding-right: 20px;
+    border: black 1px solid;
+}
+.rc2{
+    /* width: 100%;
+    height: 250px; */
+    background-color: rgb(44, 43, 43);
+    padding-right: 20px;
+    border: black 1px solid;
+}
+.rc3{
+    /* width: 100%;
+    height: 250px; */
+    background-color: rgb(37, 36, 36);
+    padding-right: 20px;
+    border: black 1px solid;
+}
+#p1{
+    color: rgba(197, 186, 178, 0.61);
+    text-align: justify;
+}
+h2{
+    color: rgba(8, 8, 8, 0.801);
+    font-family: 'Lobster', cursive;
+}
+#im3{
+width:36% ;
+height: 100px;
+}
+.rc4{
+    /* width: 100%;
+    height: 250px; */
+    background-color: rgb(37, 36, 36);
+    padding-right: 20px;
+    border: black 1px solid;
+}
+.rc5{
+    /* width: 100%;
+    height: 250px; */
+    background-color: rgb(54, 51, 51);;
+    padding-right: 20px;
+    border: black 1px solid;
+}
+.rc6{
+    /* width: 100%;
+    height: 250px; */
+    background-color: rgb(44, 43, 43);
+    padding-right: 20px;
+    border: black 1px solid;
+}
+.row3{
+    width: 100%;
+    height: 250px;
+    display: flex;
+}
+.cf{
+    width: 100%;
+    height: 250px;
+
+}
+.cf1{
+    /* color: yellow; */
+    /* border: white 1px solid; */
+
+}
+.cf2{
+    /* border: rgb(189, 19, 19) 1px solid; */
+
+}
+#im4{
+    height: 240px;
+    width: 44%;
+    padding-left: 300px;
+}
+.row4{
+    height: 140px;
+    width: 100%;
+    /* background-color: rgb(65, 43, 27); */
+    background-image: url(./image/cf_bg2.jpg);
+    /* background-size: cover; */
+    background-repeat: inherit;
+    color: white;
+    display: flex;
+    /* margin-top: 10px; */
+   
+}
+.r4{
+    height: 100px;
+    width: 100%;
+   padding-left: 100px;
+   color: black;
+   text-align: justify;
+
+}
+h3{
+    /* text-align: center; */
+    color: rgb(14, 12, 12);
+}
+#ad{
+    color: rgb(14, 12, 12);
+}
+.c1{
+    height: 140px;
+    width: 100%;
+    border: black 1px solid;
+  
+}
+.c2{
+    height: 140px;
+    width: 100%;
+    border: black 1px solid;
+}
+
+.c3{
+    height: 140px;
+    width: 100%;
+    border: black 1px solid;
+    display: flex;
+    padding-left: 100px;
+}
+#hh{
+    color: white;
+    text-align: center;
+}
+.rr{
+    height: 30px;
+    width: 100%;
+    background-color: rgb(80, 49, 28);
+    /* border: black 2px solid; */
+    /* background-image: url(./image/cf_bg.jpg); */
+
+    padding-bottom:3px ;
+}
+#he{
+    text-align: center;
+    color: rgb(14, 12, 12);
+    padding-bottom: 10px;
+}
+.bb{
+    width: 35px;
+    /* border: red 2px solid; */
+    /* padding-right: 100px; */
+
+}
+.bc{
+    width: 95px;
+    /* border: red 2px solid; */
+}
+.row5{
+    height: 170px;
+    width: 100%;
+background-image: url(./image/ab.jpg);
+padding-top: 1px;
+}
+#at{
+    text-align: center;
+    color: rgba(226, 216, 202, 0.719);
+    font-family: 'Lobster', cursive;
+}
+#pt{
+    text-align: center;
+    color: rgba(226, 216, 202, 0.719);
+   
+}
+
+
